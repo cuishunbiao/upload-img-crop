@@ -1,4 +1,4 @@
-
+```
 new uploadImgCropFn({
     el:'upload',
     width: 1000,
@@ -15,6 +15,4 @@ new uploadImgCropFn({
         // document.body.appendChild(_img);
     }
 })
-
-
-
+```
